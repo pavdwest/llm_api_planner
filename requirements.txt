@@ -1,0 +1,6 @@
+python-dotenv
+fastapi[all]
+pydantic
+langchain
+openai
+tiktoken
